@@ -1,4 +1,4 @@
-print("Let's calculate the area of a rectangle")
+print("Let's calculate the area of a Trapezoid")
 
 Top_length = int(input("Enter the Top Length of trapezoid "))
 Bottom_Length = int(input("Enter the Bottom Length of trapezoid "))
